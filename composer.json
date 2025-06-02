@@ -1,6 +1,6 @@
 {
-	"name": "tenantcloud/php-standard",
-	"description": "TenantCloud's PHP standard library: lazy, iterators, enum extensions etc",
+	"name": "brychokvadim/php-standard",
+	"description": "Fork by TenantCloud's PHP standard library: lazy, iterators, enum extensions etc",
 	"license": "MIT",
 	"require": {
 		"php": ">=8.3",
